@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ref: https://ripper.store/clientarea
-RS_APIKEY='<YOUR API KEY>'
+RS_APIKEY='4b9458177f42523a2ad444179a055017d4f632107efd7cd46aa95efa9aeaca3a'
 
 # ref: https://github.com/CodeAngel3/RipperStoreCredits/blob/main/Main.cs
 RS_VERSION='5'
